@@ -35,7 +35,7 @@ I build machine learning solutions across forecasting, anomaly detection, statis
 
 | Repo | What it does |
 |------|-------------|
-| [Biopython](https://github.com/VishnuKoushikTekuru/Biopython) | Phylogenetic Tree Analysis — Biopython, end-to-end pipeline |
+| [Biopython](https://github.com/VishnuKoushikTekuru/Biopython) | Phylogenetic Tree Analysis — Biopython, Pylab, NCBI, Blast, end-to-end pipeline |
 | [Data-Analysis](https://github.com/VishnuKoushikTekuru/Data-Analysis) | CGM sensor time-series analysis, anomaly detection (isolation forest + Six Sigma), healthcare fines risk model |
 | [HDS-R-Project-](https://github.com/VishnuKoushikTekuru/HDS-R-Project-) | Pancreatic cancer survival analysis — Kaplan-Meier, Cox regression, hazard ratio outputs |
 | [Natural-Language-Project](https://github.com/VishnuKoushikTekuru/Natural-Language-Project) | NLP text classification on BBC News dataset — NLTK, TF-IDF, Scikit-learn |
