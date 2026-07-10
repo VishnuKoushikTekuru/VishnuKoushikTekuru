@@ -35,10 +35,15 @@ I build machine learning solutions across forecasting, anomaly detection, statis
 
 | Repo | What it does |
 |------|-------------|
-| [Biopython](https://github.com/VishnuKoushikTekuru/Biopython) | Phylogenetic Tree Analysis — Biopython, Pylab, NCBI, Blast, end-to-end pipeline |
+| [Biopython](https://github.com/VishnuKoushikTekuru/Biopython) | Phylogenetic Tree Analysis — Biopython, Pylab, NCBI sequence retrieval, BLAST, end-to-end pipeline |
 | [Data-Analysis](https://github.com/VishnuKoushikTekuru/Data-Analysis) | CGM sensor time-series analysis, anomaly detection (isolation forest + Six Sigma), healthcare fines risk model |
-| [HDS-R-Project-](https://github.com/VishnuKoushikTekuru/HDS-R-Project-) | Pancreatic cancer survival analysis — Kaplan-Meier, Cox regression, hazard ratio outputs |
+| [HDS-R-Project-](https://github.com/VishnuKoushikTekuru/HDS-R-Project-) | Pancreatic cancer survival analysis in R— Kaplan-Meier, Cox regression, hazard ratio outputs |
 | [Natural-Language-Project](https://github.com/VishnuKoushikTekuru/Natural-Language-Project) | NLP text classification on BBC News dataset — NLTK, TF-IDF, Scikit-learn |
+| [Blood Inventory Demand Forecasting](https://github.com/VishnuKoushikTekuru/Blood-Inventory) | End-to-end LSTM model forecasting blood inventory demand |
+| [NHS Patient Feedback NLP](https://github.com/VishnuKoushikTekuru/Sentiment-Analysis-) | Sentiment analysis on NHS patient feedback using NLTK and VADER |
+| [NHS A&E Demand Forecasting](https://github.com/VishnuKoushikTekuru/NHS-A-E-Forecast) | Compared Prophet and LSTM models on NHS attendance data |
+| [Clinical Outcome Prediction](https://github.com/VishnuKoushikTekuru/Clinical-Trial-Outcome-Prediction-with-SHAP) | Interpretable classification models with SHAP explainability |
+
 
 ---
 
