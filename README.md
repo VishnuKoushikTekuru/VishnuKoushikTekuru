@@ -12,7 +12,7 @@ I build machine learning solutions across forecasting, anomaly detection, statis
 - **Anomaly & outlier detection** — ML-based (Isolation Forest) and statistical (Six Sigma) approaches
 - **Survival analysis** — Kaplan-Meier and Cox regression on real clinical datasets (R)
 - **NLP** — Sentiment analysis and text classification pipelines on real-world feedback data
-- **Predictive modelling** — Classification, risk scoring and explainability (SHAP) from structured clinical and healthcare data
+- **Predictive modelling** — Classification, risk scoring and explainability from structured clinical and healthcare data
 - **Bioinformatics** — Sequence retrieval, BLAST search and phylogenetic tree construction (Biopython)
 ---
 
