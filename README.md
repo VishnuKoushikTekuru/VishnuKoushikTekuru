@@ -9,11 +9,11 @@ I build machine learning solutions across forecasting, anomaly detection, statis
 ## 🔬 What I work on
 
 - **Time-series forecasting** — LSTM deep learning models for demand prediction
-- **Anomaly & outlier detection** — ML-based (isolation forest) and statistical (Six Sigma) approaches  
-- **Survival analysis** — Kaplan-Meier and Cox regression on real clinical datasets
-- **NLP** — Text classification pipelines on large unstructured datasets
-- **Predictive modelling** — Classification and risk scoring from structured multi-source data
-
+- **Anomaly & outlier detection** — ML-based (Isolation Forest) and statistical (Six Sigma) approaches
+- **Survival analysis** — Kaplan-Meier and Cox regression on real clinical datasets (R)
+- **NLP** — Sentiment analysis and text classification pipelines on real-world feedback data
+- **Predictive modelling** — Classification, risk scoring and explainability (SHAP) from structured clinical and healthcare data
+- **Bioinformatics** — Sequence retrieval, BLAST search and phylogenetic tree construction (Biopython)
 ---
 
 ## 🛠 Tech stack
