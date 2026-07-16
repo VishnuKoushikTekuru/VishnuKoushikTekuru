@@ -44,6 +44,7 @@ I build machine learning solutions across forecasting, anomaly detection, statis
 | [NHS A&E Demand Forecasting](https://github.com/VishnuKoushikTekuru/NHS-A-E-Forecast) | Compared Prophet and LSTM models on NHS attendance data |
 | [Clinical Outcome Prediction](https://github.com/VishnuKoushikTekuru/Clinical-Trial-Outcome-Prediction-with-SHAP) | Interpretable classification models with SHAP explainability |
 |[British-Airways-DS-Simulation](https://github.com/VishnuKoushikTekuru/British-Airways-DS-Simulation) |  RandomForest, SHAP, permutation importance — Predictive of customer bookings & lounge eligibility demand modeling |
+| [School-Data-Analytics](https://github.com/VishnuKoushikTekuru/School-Data-Analytics)| Analysed KS4 attainment gaps by offending history across local authorities and regions |
 
 ---
 
